@@ -32,7 +32,7 @@ const Hero = () => {
               Welcome to <br />
               <span className="relative">
                 Nimbusware
-                <div className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-primary opacity-30 rounded-full"></div>
+                <div className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-primary opacity-100 rounded-full"></div>
               </span>
             </h1>
           </div>
