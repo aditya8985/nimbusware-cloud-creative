@@ -30,7 +30,7 @@ const Hero = () => {
           <div className="animate-fade-in">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent leading-tight">
               Welcome to <br />
-              <span className="relative">
+              <span className="relative text-primary-dark">
                 Nimbusware
                 <div className="absolute -bottom-2 left-0 right-0 h-1 bg-gradient-primary opacity-100 rounded-full"></div>
               </span>
