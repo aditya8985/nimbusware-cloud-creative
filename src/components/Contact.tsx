@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
-import { Mail, Phone, MapPin, Send } from "lucide-react";
+import { Mail, Phone, Send } from "lucide-react";
 
 const Contact = () => {
   return (
@@ -85,8 +85,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h4 className="font-semibold text-foreground">Email Us</h4>
-                        <p className="text-muted-foreground">hello@nimbusware.com</p>
-                        <p className="text-muted-foreground">contact@nimbusware.com</p>
+                        <p className="text-muted-foreground">nimbusware2025@gmail.com</p>
                       </div>
                     </div>
                     
@@ -96,21 +95,10 @@ const Contact = () => {
                       </div>
                       <div>
                         <h4 className="font-semibold text-foreground">Call Us</h4>
-                        <p className="text-muted-foreground">+1 (555) NIMBUS-1</p>
-                        <p className="text-muted-foreground">Available 9 AM - 6 PM EST</p>
+                        <p className="text-muted-foreground">+91 9324405985</p>
                       </div>
                     </div>
                     
-                    <div className="flex items-start">
-                      <div className="flex items-center justify-center w-12 h-12 bg-primary rounded-lg mr-4 flex-shrink-0">
-                        <MapPin className="w-6 h-6 text-white" />
-                      </div>
-                      <div>
-                        <h4 className="font-semibold text-foreground">Visit Us</h4>
-                        <p className="text-muted-foreground">123 Innovation Drive</p>
-                        <p className="text-muted-foreground">Tech Valley, CA 94000</p>
-                      </div>
-                    </div>
                   </div>
                 </div>
 
